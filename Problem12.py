@@ -1,4 +1,10 @@
+#
+# Github link: 
+# https://github.com/HoangNKQ/FAI_Python_Test_2021
+#
+
 from tkinter import *
+import psycopg2
 
 def submit():
     name = nameVar.get()
